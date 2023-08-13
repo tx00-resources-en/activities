@@ -1,1 +1,1 @@
-# activities
+# Activities: Week 2
