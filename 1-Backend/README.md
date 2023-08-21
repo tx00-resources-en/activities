@@ -1,11 +1,5 @@
 # Backend: Week 1
 
-### Preparation
-
-Here's a list of tasks to help you get ready for class.
-- .
-- . 
-
 ### Topics 
 
 - JavaScript Engines
@@ -129,10 +123,11 @@ Here's a list of tasks to help you get ready for class.
 [SpiderMonkey]:https://en.wikipedia.org/wiki/SpiderMonkey
 [interpret]:https://nodejs.dev/en/learn/the-v8-javascript-engine/
 [Node.js]:https://nodejs.dev/en/learn/
-[JS Engines]:https://github.com/tx00-web/material/Backend-related/JS-engines.md
-[Node Intro]:https://github.com/tx00-web/material/Backend-related/node-intro.md
-[Variables]:https://github.com/tx00-web/material/JS-related/variables.md
-[Arrow Functions]:https://github.com/tx00-web/material/JS-related/arrow-functions.md
-[Functions]:https://github.com/tx00-web/material/JS-related/functions.md
-[Activity 1]:https://github.com/tx00-web/labs/be-node-basics1
-[Activity 2]:https://github.com/tx00-web/labs/be-node-basics2
+[JS Engines]:https://github.com/tx00-web/material/tree/main/Backend-related/JS-engines.md
+[Node Intro]:https://github.com/tx00-web/material/tree/main/Backend-related/node-intro.md
+[Variables]:https://github.com/tx00-web/material/tree/main/JS-related/variables.md
+[Arrow Functions]:https://github.com/tx00-web/material/tree/main/JS-related/arrow-functions.md
+[Functions]:https://github.com/tx00-web/material/tree/main/JS-related/functions.md
+[Activity 1]:https://github.com/tx00-web/labs/tree/main/be-node-basics1
+[Activity 2]:https://github.com/tx00-web/labs/tree/main/be-node-basics2
+

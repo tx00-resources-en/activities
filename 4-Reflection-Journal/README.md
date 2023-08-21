@@ -1,7 +1,9 @@
 # Your Name, Week 34: 21/8 - 27/8
 
-1. Please use Kindly utilize this [template] for composing your weekly reflections.
-2. Peer assessment
+## Reflection Journal
+Please use utilize this [template] to write your weekly reflections.
+
+## Peer assessment
 
 Evaluate the performance of each member of your group. Remember to evaluate yourself as well!
 

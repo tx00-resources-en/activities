@@ -1,5 +1,6 @@
 # 2023-08-21: Introduction to the Course
 
+- [WHY?]
 
 ## Session 1
 
@@ -7,8 +8,6 @@
 - These components are closely intertwined, reflecting the real-world interactions between different aspects of web development.
 - This iteration of the course is the fifth, and it has been refined based on invaluable feedback from previous students.
 - Notably, graduates of this course have successfully transitioned to roles as Junior Web Developers, launched their startups (consider one exchange student as an example), or advanced their careers as skilled software developers.
-
-[WHY?]
 
 ### Showcase of What You Can Achieve
 
@@ -43,11 +42,11 @@
 
 ### Benefits: Exceptional Value
 
-- Comparable courses on other platforms, such as bootcamps or online academies, can cost upwards of 30k. Our course delivers equivalent value at a significantly lower cost.
+- Comparable courses on other platforms, such as bootcamps or online academies, can cost upwards of 30k. Our course delivers equivalent values.
   - EDX , Appacademy, Ironhacks
   - [Bootcamp: Berkeley], [Bootcamp: EDX], [App academy], 
 [Ironhack], [Coding Bootcamps with Job Guarantee]
-- Furthermore, upon completion, you'll receive a certificate that attests to your newfound expertise, completely free of charge.
+
 
 ### Additional Gains
 
@@ -78,7 +77,7 @@
 ###  What is Full-Stack Development?
 - Full-stack development is about mastering both the frontend and backend components of web applications.
 - As a full-stack developer, you'll be capable of handling the entire development process, from designing the user interface to managing databases and server-side logic.
-- We'll discuss the benefits of being a full-stack developer, including versatility and understanding the "big picture."
+- We'll discuss the benefits of being a full-stack developer and understand the "big picture."
 
 ### What is MERN and the Role of Each Technology in the Stack:
 - MERN stands for MongoDB, Express.js, React, and Node.js.
@@ -149,7 +148,7 @@
 
 ###  MATERIAL:
 - You'll have access to four repositories: Material, Question Bank, Activities, and Labs.
-- We'll aim to post course materials before lectures to aid in your preparation.
+- We'll aim to post course **most** materials before lectures to aid in your preparation.
 
 ###  RESOURCES:
 - Our learning resources include:
@@ -166,6 +165,18 @@
 ---
 
 ## Schedule: Web Development Course 
+
+### Resources
+
+- JavaScript before and [now]
+- [Full Stack open]
+- DevOps vs [MLOps]
+- [Scrimba: React]
+- [Coding Addict: Node.js and Express.js]
+- [Coding Addict: Node.js / Express Projects]
+- [Coding Addict: React 18]
+- [The Net Ninja]
+- [Modern JavaScript]
 
 ### Week 1:
 
@@ -378,3 +389,11 @@ Collaboration and a consistent setup are key to your success in this course. Rem
 [Roadmap FE]:https://roadmap.sh/frontend
 [React]:https://roadmap.sh/react
 [Node.js]:https://roadmap.sh/nodejs
+[now]:https://esnext.github.io/esnext/
+[MLOps]:https://en.wikipedia.org/wiki/MLOps
+- [Scrimba: React]:https://youtu.be/bMknfKXIFA8
+- [Coding Addict: Node.js and Express.js]:https://youtu.be/Oe421EPjeBE
+- [Coding Addict: Node.js / Express Projects]:https://youtu.be/qwfE7fSVaZM
+- [Coding Addict: React 18]:https://youtu.be/2-crBg6wpp0
+- [The Net Ninja]:https://www.youtube.com/@NetNinja
+- [Modern JavaScript]:https://youtu.be/BI1o2H9z9fo
