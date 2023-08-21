@@ -366,7 +366,7 @@ Collaboration and a consistent setup are key to your success in this course. Rem
 [Misc.]:https://www.johnsmilga.com/
 [JavaScript Mastery]:https://www.youtube.com/@javascriptmastery/playlists
 [Advanced project]:https://www.youtube.com/@javascriptmastery/playlists
-[Unified Setup]:https://github.com/tx00-web/labs/proj-unified-setup
+[Unified Setup]:https://github.com/tx00-web/labs/tree/main/proj-unified-setup
 [Full Stack open]:https://fullstackopen.com/en/
 [Jobify]:https://jobify.live/login
 [React Projects]:https://react-projects.netlify.app/
@@ -391,9 +391,9 @@ Collaboration and a consistent setup are key to your success in this course. Rem
 [Node.js]:https://roadmap.sh/nodejs
 [now]:https://esnext.github.io/esnext/
 [MLOps]:https://en.wikipedia.org/wiki/MLOps
-- [Scrimba: React]:https://youtu.be/bMknfKXIFA8
-- [Coding Addict: Node.js and Express.js]:https://youtu.be/Oe421EPjeBE
-- [Coding Addict: Node.js / Express Projects]:https://youtu.be/qwfE7fSVaZM
-- [Coding Addict: React 18]:https://youtu.be/2-crBg6wpp0
-- [The Net Ninja]:https://www.youtube.com/@NetNinja
-- [Modern JavaScript]:https://youtu.be/BI1o2H9z9fo
+[Scrimba: React]:https://youtu.be/bMknfKXIFA8
+[Coding Addict: Node.js and Express.js]:https://youtu.be/Oe421EPjeBE
+[Coding Addict: Node.js / Express Projects]:https://youtu.be/qwfE7fSVaZM
+[Coding Addict: React 18]:https://youtu.be/2-crBg6wpp0
+[The Net Ninja]:https://www.youtube.com/@NetNinja
+[Modern JavaScript]:https://youtu.be/BI1o2H9z9fo
