@@ -2,7 +2,7 @@
 
 ### Related Videos
 - Node.js
-  - [Node.js Tutorial for Beginners](https://youtu.be/TlB_eWDSMt4)
+  - [Node.js Tutorial for Beginners: (**First 40min only**)](https://youtu.be/TlB_eWDSMt4)
 - JavaScript:
   - [Basics & Types](https://youtu.be/FhguwBJeqWs)
   - [Functions & Arrow functions](https://youtu.be/xUI5Tsl2JpY)
