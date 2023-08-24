@@ -8,7 +8,7 @@
 - [React Basics: part 1](#react-basics-part-1)
 - Activity 1
 - [React Basics: part 2](#react-basics-part-2)
-- Activity 1
+- Activity 
 - Post lecture
   - [Reading](#reading)
   - [Videos](#videos) 
@@ -31,11 +31,10 @@
 ### React Basics: part 1
 
 - Demo10 + [React dev tools]
-- Vite vs CRA
+- [Vite] vs [CRA]
 - Your First Component
 - Importing and Exporting Components
 - Writing Markup with JSX
-- JavaScript in JSX with Curly Braces
 
 
 ### [Activity]
@@ -48,6 +47,7 @@
 
 ### React Basics: part 2
 
+- JavaScript in JSX with Curly Braces
 - Passing Props to a Component
 - Conditional Rendering
 - React Developer Tools
@@ -104,3 +104,5 @@
 [React dev tools]:https://react.dev/learn/react-developer-tools
 [demos]:https://github.com/tx00-web/activities/tree/week1/2-Frontend/demos
 [Learn React 18 – Full Tutorial for Beginners]:https://youtu.be/Flbw5BX_AX0?si=Pch8zLMRoSJwQzTQ
+[Vite]:https://vitejs.dev/
+[CRA]:https://create-react-app.dev/
