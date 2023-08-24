@@ -14,7 +14,8 @@ const person = {
   }
 };
 
-export default function TodoList() {
+export default function App() {
+  console.log(person.theme);
   return (
     <div style={person.theme}>
       <h1>{person.name}'s Todos</h1>

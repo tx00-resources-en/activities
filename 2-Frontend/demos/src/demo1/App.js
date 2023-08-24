@@ -1,8 +1,9 @@
 import './app.css';
 
-function Greeting() {
+export function Greeting() {
   return  <h2>My First Component !!!!</h2>;
 }
+
 
 function App() {
   return (
