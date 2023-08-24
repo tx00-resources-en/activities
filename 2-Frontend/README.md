@@ -56,15 +56,28 @@
 
 - Working with Props in React
 - Conditionally Returning JSX in a React Project
-- Explore 
+- Explore the [demos]
 
 ---
 
 ### Videos
 
-- []
-- []
-- []
+- [Learn React 18 – Full Tutorial for Beginners]
+  - **From start till 2h 22min**
+  - Timeline:
+    - 00:00 - Setup
+    - 29:43 - Folder Structure
+    - 42:08 - First Component
+    - 52:35 - Extensions and settings.json
+    - 01:05:19 - JSX
+    - 01:19:21 - Nest Components
+    - 01:25:45 - Booklist
+    - 01:36:07 - CSS
+    - 01:46:41 - Images
+    - 01:54:41 - JSX - CSS
+    - 02:01:27 - JSX - Javascript
+    - 02:07:54 - Props
+    - 02:17:43 - Props - Somewhat Dynamic Setup
 
 
 ### Reading
@@ -88,4 +101,5 @@
 [Passing Props to a Component]:https://react.dev/learn/passing-props-to-a-component
 [Conditional Rendering]:https://react.dev/learn/rendering-lists
 [React dev tools]:https://react.dev/learn/react-developer-tools
-
+[demos]:https://github.com/tx00-web/activities/tree/week1/2-Frontend/demos
+[Learn React 18 – Full Tutorial for Beginners]:https://youtu.be/Flbw5BX_AX0?si=Pch8zLMRoSJwQzTQ

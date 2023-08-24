@@ -1,23 +1,16 @@
 # Instructions
 
 ## Demos
-- Demo 1: 
-- Demo 2:
-- Demo 3: 
-- Demo 4:
-- Demo 5: 
-- Demo 6: 
-- Demo 7:
-- Demo 8: Final demo today
+- Demo 1: Your First Component 
+- Demo 2: Importing and Exporting Components
+- Demo 3: Writing Markup with JSX 
+- Demo 4: JavaScript in JSX with Curly Braces
+- Demo 5: Passing Props to a Component 
+- Demo 6: Conditional Rendering
+- Demo 7: Putting every thing together 1
+- Demo 8: Putting every thing together 2
 - Demo 9: Next week
-- Demo 10: After 2 weeks
-
-
-- Ensure to update the settings
-
-```
-s
-```
+- Demo 10: React showcase
 
 
 - Run
