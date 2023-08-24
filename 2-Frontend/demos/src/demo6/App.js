@@ -1,5 +1,14 @@
 // Demo 6: Conditional Rendering
 
+// - Conditionally returning JSX 
+// - Conditionally returning nothing with null 
+// - Conditionally including JSX 
+// - Conditional (ternary) operator (? :) 
+// - Conditionally assigning JSX to a variable 
+
+// next time
+// - Logical AND operator (&&) 
+
 function Item({ name, isPacked }) {
   if (isPacked) {
     return <li className="item">{name} ✔</li>;

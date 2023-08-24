@@ -31,6 +31,7 @@
 ### React Basics: part 1
 
 - Demo10 + [React dev tools]
+- Vite vs CRA
 - Your First Component
 - Importing and Exporting Components
 - Writing Markup with JSX

@@ -1,5 +1,16 @@
 // Demo 1: Your First Component
 
+// - Components: UI building blocks 
+// - Defining a component 
+//   Step 1: Export the component 
+//   Step 2: Define the function 
+//   Step 3: Add markup 
+// - Pitfall
+// - Using a component 
+// - What the browser sees 
+// - Nesting and organizing components 
+
+
 // import Profile from './Profile';
 import './app.css';
 

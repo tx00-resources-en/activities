@@ -1,5 +1,11 @@
 // Demo 4: JavaScript in JSX with Curly Braces
 
+// - Passing strings with quotes 
+// - Using curly braces: A window into the JavaScript world 
+// - Where to use curly braces 
+// - Using “double curlies”: CSS and other objects in JSX 
+// - More fun with JavaScript objects and curly braces 
+
 const person = {
   name: 'Gregorio Y. Zara',
   theme: {
