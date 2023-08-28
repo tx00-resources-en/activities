@@ -40,7 +40,8 @@
 
 8. **Portfolio Website**: Create a portfolio website for users to showcase their work and skills. Include sections for projects, about me, contact information, and possibly a blog. Use React for building the components and sections.
 
-Of course! Here are three more project ideas for students learning the MERN stack:
+> This is generated using ChatGPT
+Here are three more project ideas for students learning the MERN stack:
 
 9. **Fitness Tracking App**: Build a fitness tracking application that allows users to log their workouts, track progress over time, and set fitness goals. Users can input exercises, sets, reps, and weights for each workout session. MongoDB can store user data and exercise logs, while React can be used to display charts and graphs showing progress.
 

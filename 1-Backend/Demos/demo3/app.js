@@ -1,33 +1,33 @@
-const express = require('express');
-const path = require('path');
+   // app.js
+   const express = require('express');
+   const path = require('path');
 
-const app = express();
-const PORT = 3001;
+   const app = express();
+   const PORT = 3001;
 
-// Middleware to serve static files from the "public" directory
-app.use(express.static(path.join(__dirname, 'public')));
+   app.use(express.static('public'));
 
-// GET endpoint 1
-app.get('/endpoint1', (req, res) => {
-  res.send('This is the first endpoint.');
-});
+   // GET /route1
+   // POST /route1
+   // DELETE /route1 
+   app.get('/route 1', (req, res) => {
+     res.send('This is the first endpoint.');
+   });
 
-// GET endpoint 2
-app.get('/endpoint2', (req, res) => {
-  res.send('This is the second endpoint.');
-});
+   app.get('/endpoint2', (req, res) => {
+     res.send('This is the second endpoint.');
+   });
 
-// Error handling middleware for 404 Not Found
-app.use((req, res, next) => {
-  res.status(404).send("Sorry, the requested page couldn't be found.");
-});
+   const notFoundCb = (req, res, next) => {
+    res.status(404).send("Sorry, the requested page couldn't be found.");
+  }
+   app.use(notFoundCb);
 
-// Error handling middleware for other errors
-app.use((err, req, res, next) => {
-  console.error(err.stack);
-  res.status(500).send('Something went wrong on the server.');
-});
+   app.use((err, req, res, next) => {
+     console.error(err.stack);
+     res.status(500).send('Something went wrong on the server.');
+   });
 
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-});
+   app.listen(PORT, () => {
+     console.log(`Server is running on port ${PORT}`);
+   });

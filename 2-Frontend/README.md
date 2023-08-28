@@ -26,7 +26,7 @@
 
 <!-- Links -->
 [map()]:https://youtu.be/80KX6aD9R7M
-[Spread Operator]:(https://youtu.be/4Zyr5a3m0Fc)
+[Spread Operator]:https://youtu.be/4Zyr5a3m0Fc
 [How To Use Postman (8min)]:https://youtu.be/wmz1sGZp814
 [Styles]:https://youtu.be/NbTrGcz4DW8
 [List Rendering]:https://youtu.be/5s8Ol9uw-yM
