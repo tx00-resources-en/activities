@@ -2,8 +2,7 @@
 
 ## Visualization: Git Branching
 
-1.  [Git Visualizer: wwww]
-<!-- Bijay -->
+1.  [Git Visualizer - www]
 
 ```bash
 git commit -m "added part 1"
@@ -29,8 +28,8 @@ git branch feature2
 
 2. [More Practice](./git-merge.md)
 3. Links:
-  - [Git Branching](https://www.toolsqa.com/git/git-tutorial/)
-  - [Git Visualizer: wwww]
+  - [Git Branching]
+  - [Git Visualizer - www]
   - [Git Visualizer: src]
 4. `.gitignore`
 
@@ -39,7 +38,7 @@ git branch feature2
 
 
 <!-- Links -->
-[Git Branching](https://www.toolsqa.com/git/git-tutorial/)
-[Git Visualizer: wwww]:https://git-school.github.io/visualizing-git/
+[Git Branching]:https://www.toolsqa.com/git/git-tutorial/
+[Git Visualizer - www]:https://git-school.github.io/visualizing-git/
 [Git Visualizer: src]:https://github.com/git-school/visualizing-git/
 
