@@ -26,12 +26,12 @@ git branch feature2
 - `git checkout -b new-feature` is similar to issuing these 2 commands `git branch feature && git checkout feature`
 - `git init` and  `git add .` are not recognized by the visualizer
 
-2. [More Practice](./git-merge.md)
-3. Links:
+- [More Practice](./git-merge.md)
+- Links:
   - [Git Branching]
   - [Git Visualizer - www]
   - [Git Visualizer: src]
-4. `.gitignore`
+
 
 
 
