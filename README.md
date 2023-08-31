@@ -1,5 +1,16 @@
 # Week 2
 
+> Before staring any activity make sure, that you have the following hierarchy. Change `weekNr` to `week1`, `week2` etc
+
+```sh
+Dev
+└── weekNr
+    ├── Frontend
+    ├── Backend
+    ├── Project
+    └── Reflection-Journal
+```
+
 ### Submission
 - Week 1: Sunday, September 3rd at 23:59
 - Week 2: Sunday, September 3rd at 23:59

@@ -1,5 +1,16 @@
 # 2023-08-31: Front End
 
+> Before staring any activity make sure, that you have the following hierarchy. Change `weekNr` to `week1`, `week2` etc
+
+```sh
+Dev
+└── weekNr
+    ├── Frontend
+    ├── Backend
+    ├── Project
+    └── Reflection-Journal
+```
+
 ### Related Videos
 
 - React
