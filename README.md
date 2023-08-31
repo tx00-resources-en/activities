@@ -1,6 +1,9 @@
 # Activities
 
-> [Zoom recording]
+### Videos
+[Zoom recording]
+
+### Sessions
 
 - [Week 1: Lecture notes and activities]
 - [Week 2: Lecture notes and activities]
