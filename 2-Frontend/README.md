@@ -85,6 +85,7 @@ Dev
 
 - Lists and Keys
 
+> [Dot Notation vs Bracket Notation for Object Properties](https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/)
 
 ---
 ### Reading Material
