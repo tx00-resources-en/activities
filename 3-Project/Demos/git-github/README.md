@@ -30,9 +30,9 @@ git branch feature2
 2. [More Practice](./git-merge.md)
 3. Links:
   - [Git Branching](https://www.toolsqa.com/git/git-tutorial/)
-  - [Git Visualizer: wwww]:https://git-school.github.io/visualizing-git/
-  - [Git Visualizer: src]:https://github.com/git-school/visualizing-git/
-3. `.gitignore`
+  - [Git Visualizer: wwww]
+  - [Git Visualizer: src]
+4. `.gitignore`
 
 
 
