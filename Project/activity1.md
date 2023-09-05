@@ -13,7 +13,7 @@
 
 - Refactor the [users API](../Backend/activity1.md) to adhere to the MVC (Model-View-Controller) Pattern. Create separate files and directories for Routers and Controllers.
 - Organize the code into the following structure:
-
+```sh
 lab-users-api-mvc/
 |-- controllers/
 |   |-- *.js
@@ -23,7 +23,7 @@ lab-users-api-mvc/
 |   |-- *.js
 |-- index.js
 |-- package.json
-
+```
 
 ### Important Notes
 
