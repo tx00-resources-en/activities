@@ -1,4 +1,4 @@
-<!-- # Lab Title: Understanding the Node.js Event Loop
+# Lab Title: Understanding the Node.js Event Loop
 
 **Objective:** 
 To gain a deeper understanding of the Node.js Event Loop and asynchronous programming.
@@ -121,8 +121,6 @@ To learn how to use the Fetch API in Node.js to make HTTP requests and to unders
    ```javascript
    // fetch_lab.js
 
-   const fetch = require("node-fetch"); // Import the fetch library
-
    console.log("Fetching data...");
 
    fetch("https://jsonplaceholder.typicode.com/posts/1")
@@ -151,9 +149,6 @@ To learn how to use the Fetch API in Node.js to make HTTP requests and to unders
 
    ```javascript
    // fetch_lab.js
-
-   const fetch = require("node-fetch");
-
    console.log("Fetching data...");
 
    fetch("https://jsonplaceholder.typicode.com/nonexistent")
@@ -183,7 +178,7 @@ To learn how to use the Fetch API in Node.js to make HTTP requests and to unders
      - How does the `.then` method work in Promises?
      - How do you handle errors in Promises using `.catch`?
    
-This lab is designed to help you learn how to use the Fetch API in Node.js for making HTTP requests and to understand the concept of Promises for handling asynchronous operations. It's a fundamental skill for working with APIs and handling network requests in JavaScript.
+This section was designed to help you learn how to use the Fetch API in Node.js for making HTTP requests and to understand the concept of Promises for handling asynchronous operations. It's a fundamental skill for working with APIs and handling network requests in JavaScript.
 
 ## Part 3
 ----
@@ -272,4 +267,4 @@ To learn how to use the Fetch API in Node.js with `async/await` to make HTTP req
      - How do you handle errors using `try...catch` with `async/await`?
    
 
-This extended lab is designed to help you learn how to use the Fetch API with `async/await` in Node.js to make HTTP requests and handle asynchronous operations. Understanding `async/await` is crucial for writing clean and readable asynchronous code in JavaScript. -->
+This extended lab is designed to help you learn how to use the Fetch API with `async/await` in Node.js to make HTTP requests and handle asynchronous operations. Understanding `async/await` is crucial for writing clean and readable asynchronous code in JavaScript.

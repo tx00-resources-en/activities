@@ -27,11 +27,20 @@ Dev
 ### 2023-09-07: 
 
 - Topics
-  - Unit Testing
+  - ~~Unit Testing~~
   - Asynchronous JavaScript
 - Activities
   - [Activity 3](./activity3.md)
   - [Activity 4](./activity4.md)
+
+
+### Reading
+
+- [The Fetch API is finally coming to Node.js](https://blog.logrocket.com/fetch-api-node-js/)
+- [Using fetch](https://css-tricks.com/using-fetch/)
+- [JS Promises](https://javascript.info/promise-basics)
+
+
 
 
 
