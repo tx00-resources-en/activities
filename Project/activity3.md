@@ -106,21 +106,12 @@ To learn how to use the Fetch API in Node.js to make HTTP requests and to unders
 
    Create a new directory for your lab and inside it, create a file named `fetch_lab.js`.
 
-**2. Install a Dependency (Optional):**
-
-   You can optionally install the `node-fetch` package, which provides a Fetch API implementation for Node.js. This is useful because Node.js doesn't have the built-in `fetch` function like browsers do.
-
-   ```bash
-   npm install node-fetch
-   ```
-
-**3. Making a GET Request:**
+**2. Making a GET Request:**
 
    Write JavaScript code to make a GET request to a public API (e.g., JSONPlaceholder) using the Fetch API. Use promises to handle the asynchronous response.
 
    ```javascript
    // fetch_lab.js
-
    console.log("Fetching data...");
 
    fetch("https://jsonplaceholder.typicode.com/posts/1")
@@ -143,7 +134,7 @@ To learn how to use the Fetch API in Node.js to make HTTP requests and to unders
      - We make a GET request to a public API (`https://jsonplaceholder.typicode.com/posts/1`) and handle the response using Promises.
      - We check if the response status is okay (2xx range) and then parse the JSON data.
 
-**4. Handling Errors:**
+**3. Handling Errors:**
 
    Modify the script to handle errors by making a request to a non-existent URL.
 
@@ -170,7 +161,7 @@ To learn how to use the Fetch API in Node.js to make HTTP requests and to unders
      - In this step, we intentionally make a request to a non-existent URL to trigger an error.
      - We handle the error using the `.catch` block in the Promise chain.
 
-**5. Experiment and Questions:**
+**4. Experiment and Questions:**
 
    - Modify the script to make multiple concurrent requests and observe the order of responses.
    - Reflect on the following questions in your lab report:
@@ -193,15 +184,7 @@ To learn how to use the Fetch API in Node.js with `async/await` to make HTTP req
 
    Create a new directory for your lab and inside it, create a file named `fetch_async_await_lab.js`.
 
-**2. Install a Dependency (Optional):**
-
-   You can install the `node-fetch` package as mentioned earlier.
-
-   ```bash
-   npm install node-fetch
-   ```
-
-**3. Making a GET Request with async/await:**
+**2. Making a GET Request with async/await:**
 
    Write JavaScript code to make a GET request to a public API using the Fetch API and `async/await` for asynchronous operations.
 
@@ -227,7 +210,7 @@ To learn how to use the Fetch API in Node.js with `async/await` to make HTTP req
      - In this step, we define an `async` function called `fetchData` to encapsulate the asynchronous operations.
      - We use `await` with the `fetch` function to make the GET request and `await` the response and JSON parsing.
 
-**4. Handling Errors:**
+**3. Handling Errors:**
 
    Modify the script to handle errors by making a request to a non-existent URL.
 
@@ -258,7 +241,7 @@ To learn how to use the Fetch API in Node.js with `async/await` to make HTTP req
      - In this step, we intentionally make a request to a non-existent URL to trigger an error.
      - We continue to use `async/await` to handle the error using the `try...catch` block.
 
-**5. Experiment and Questions:**
+**4. Experiment and Questions:**
 
    - Modify the script to make multiple concurrent requests and observe the order of responses.
    - Reflect on the following questions in your lab report:
@@ -267,4 +250,4 @@ To learn how to use the Fetch API in Node.js with `async/await` to make HTTP req
      - How do you handle errors using `try...catch` with `async/await`?
    
 
-This extended lab is designed to help you learn how to use the Fetch API with `async/await` in Node.js to make HTTP requests and handle asynchronous operations. Understanding `async/await` is crucial for writing clean and readable asynchronous code in JavaScript.
+This extended part is designed to help you learn how to use the Fetch API with `async/await` in Node.js to make HTTP requests and handle asynchronous operations. Understanding `async/await` is crucial for writing clean and readable asynchronous code in JavaScript.
