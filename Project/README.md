@@ -28,6 +28,7 @@ Dev
 
 - Topics
   - ~~Unit Testing~~
+  - [SPA (Single-page application)](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
   - Asynchronous JavaScript
 - Activities
   - [Activity 3](./activity3.md)
@@ -41,9 +42,16 @@ Dev
 - [JS Promises](https://javascript.info/promise-basics)
 
 
+### Misc.
 
+Model View Controller
+![MVC](./mvc.png "MVC")
 
+Event Loop
+![MVC](./eventloop.png "MVC")
 
+Bruce Tuckman's Forming, Storming, Norming, and Performing model
+![MVC](./teams.jpg "MVC")
 
 <!-- Links -->
 
