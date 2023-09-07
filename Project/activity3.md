@@ -1,4 +1,4 @@
-# Lab Title: Understanding the Node.js Event Loop
+<!-- # Lab Title: Understanding the Node.js Event Loop
 
 **Objective:** 
 To gain a deeper understanding of the Node.js Event Loop and asynchronous programming.
@@ -272,4 +272,4 @@ To learn how to use the Fetch API in Node.js with `async/await` to make HTTP req
      - How do you handle errors using `try...catch` with `async/await`?
    
 
-This extended lab is designed to help you learn how to use the Fetch API with `async/await` in Node.js to make HTTP requests and handle asynchronous operations. Understanding `async/await` is crucial for writing clean and readable asynchronous code in JavaScript.
+This extended lab is designed to help you learn how to use the Fetch API with `async/await` in Node.js to make HTTP requests and handle asynchronous operations. Understanding `async/await` is crucial for writing clean and readable asynchronous code in JavaScript. -->
