@@ -50,9 +50,10 @@ Your grade will be determined based on the following components:
 
 ### Front End (2023-09-07)
 
+- Array Destructuring
 - React events
-- Router
 - State Management with useState Hook
+- React Router
 
 ### Project 
 
