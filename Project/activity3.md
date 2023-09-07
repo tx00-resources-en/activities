@@ -112,21 +112,15 @@ To learn how to use the Fetch API in Node.js to make HTTP requests and to unders
 
    ```javascript
    // fetch_lab.js
-   console.log("Fetching data...");
+console.log("Fetching data...");
 
-   fetch("https://jsonplaceholder.typicode.com/posts/1")
-     .then((response) => {
-       if (!response.ok) {
-         throw new Error(`HTTP error! Status: ${response.status}`);
-       }
-       return response.json();
-     })
-     .then((data) => {
-       console.log("Fetched data:", data);
-     })
-     .catch((error) => {
-       console.error("Error:", error);
-     });
+fetch("https://jsonplaceholder.typicode.com/posts/1")
+  .then((response) => {
+    return response.json();
+  })
+  .then((data) => {
+    console.log("Fetched data:", data);
+  })
    ```
 
    - **Explanation**:
