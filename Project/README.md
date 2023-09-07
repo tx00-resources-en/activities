@@ -31,7 +31,7 @@ Dev
   - Asynchronous JavaScript
 - Activities
   - [Activity 3](./activity3.md)
-  - [Activity 4](./activity4.md)
+  - ~~[Activity 4](./activity4.md)~~
 
 
 ### Reading

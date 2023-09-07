@@ -47,8 +47,12 @@ Dev
     <!-- - [Nested Routes](https://dev.to/tywenk/how-to-use-nested-routes-in-react-router-6-4jhd) -->
 
 
-## Useful Links
+## Optional Links
 ---
+
+- [ React Router in Depth ](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iVKmtNuCeIswnQ97in2GGf)
+- [React Router 6 – Complete Tutorial](https://youtu.be/59IXY5IDrBA)
+- [A Complete Guide to Flexbox ](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 <!-- 
 https://github.com/tx00-web/react-starter 
