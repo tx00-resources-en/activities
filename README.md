@@ -1,7 +1,8 @@
 # Activities
 
-### Videos
+### Misc.
 [Zoom recording]
+[ChatGPT guidance]
 
 ### Sessions
 
@@ -26,3 +27,4 @@
 [Week 7: Lecture notes and activities]:https://github.com/tx00-web/activities/tree/week7
 [Week 8: Lecture notes and activities]:https://github.com/tx00-web/activities/tree/week8
 [Zoom recording]:https://metropoliafi-my.sharepoint.com/:f:/g/personal/samiben_metropolia_fi/ElqG5DFEqWRBk7L9I6kVKmgBLeAYQX16tlz2UXB4KeODLw?e=5%3amcBesG&fromShare=true&at=9
+[ChatGPT]:https://arene.fi/wp-content/uploads/PDF/2023/AI-Arene-suositukset_EN.pdf
