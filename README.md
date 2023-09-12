@@ -30,4 +30,4 @@
 [Zoom recording]:https://metropoliafi-my.sharepoint.com/:f:/g/personal/samiben_metropolia_fi/ElqG5DFEqWRBk7L9I6kVKmgBLeAYQX16tlz2UXB4KeODLw?e=5%3amcBesG&fromShare=true&at=9
 
 [Rules of using ChatGPT at Metropolia]:https://arene.fi/wp-content/uploads/PDF/2023/AI-Arene-suositukset_EN.pdf
-- [Step-by-Step: Setting Up GitHub Student and GitHub Copilot as an Authenticated Student Developer]:https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279
+[Step-by-Step: Setting Up GitHub Student and GitHub Copilot as an Authenticated Student Developer]:https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279
