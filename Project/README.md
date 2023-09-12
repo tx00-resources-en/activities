@@ -22,6 +22,21 @@ Dev
 ```sh
 npx degit tx00-web/activities/demo#week4 demo
 ```
+
+- Create `.env` file in the backend folder(s)
+- Add
+```sh
+PORT=3001
+MONGO_URI=your_uri
+```
+
+```sh
+cd path_to_backend
+npm install
+cd path_to_frontend
+npm install
+```
+
 ----
 ### CSS Review
 
@@ -31,7 +46,7 @@ npx degit tx00-web/activities/demo#week4 demo
 
 ### Other
 - [7 Personality Traits of a Full Stack Developer](https://www.linkedin.com/pulse/7-personality-traits-full-stack-developer-ginly-lim)
-- [kestavakehitys at Metropolia](https://www.metropolia.fi/kestavakehitys/en/Home)
+- [Kestavakehitys at Metropolia](https://www.metropolia.fi/kestavakehitys/en/Home)
 
 
 
