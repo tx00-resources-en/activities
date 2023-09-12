@@ -29,7 +29,9 @@ npx degit tx00-web/activities/demo#week4 demo
   - [Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) 
   - [src](https://github.com/iamshaunjp/bootstrap-5-tutorial) 
 
-
+### Other
+- [7 Personality Traits of a Full Stack Developer](https://www.linkedin.com/pulse/7-personality-traits-full-stack-developer-ginly-lim)
+- [kestavakehitys at Metropolia](https://www.metropolia.fi/kestavakehitys/en/Home)
 
 
 
