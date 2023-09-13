@@ -77,14 +77,9 @@ For this, you will need 3 state variables:
 }
 ```
 
-### Extra activities
-
-- [Activity 3 (**Optional**)](./activity3.md)
-
-
 <details>
   <summary>
-   <h2>Bootstrap</h2>
+   <h2>Extra activities</h2>
   </summary>
 
 If you want to include Bootstrap with [Reactstrap](https://reactstrap.github.io), you should run

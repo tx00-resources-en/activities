@@ -2,8 +2,8 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 
 
-// import App from './intro/App'
-import App from './signup/App'
+import App from './intro/App'
+// import App from './signup/App'
 // import App from './effect1/App'
 
 const root = ReactDOM.createRoot(document.getElementById('root'))

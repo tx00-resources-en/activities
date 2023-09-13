@@ -40,8 +40,8 @@ Dev
   - [Activity 5](./activity5.md)
 
 ### Extra Material
-- [Reading: Controlled components]
-- [React 18 Tutorial -- useEffcet(): from 05:43:29 - till 06:14:39](https://youtu.be/Flbw5BX_AX0) 
+
+- [React 18 Tutorial -- useEffect(): from 05:43:29 - till 06:14:39](https://youtu.be/Flbw5BX_AX0) 
 - React Projects:
   - [Video](https://youtu.be/ly3m6mv5qvg?si=vhjwrxf1qyvZ0trj)
   - [src](https://github.com/john-smilga/react-projects)
@@ -52,7 +52,9 @@ Dev
   - Tutorial #30 - Programmatic Redirects
   - Tutorial #31 - Deleting Blogs
   - Tutorial #32 - 404 Pages & Next Steps
-
+- Reading
+  - [Controlled components]
+  - [React useEffect Hooks](https://www.w3schools.com/react/react_useeffect.asp)
 
 
 
@@ -63,5 +65,5 @@ https://github.com/tx00-web/vite-template
 -->
 
 <!-- Links -->
-[Reading: Controlled components]:https://react.dev/reference/react-dom/components/input#controlling-an-input-with-a-state-variable
+[Controlled components]:https://react.dev/reference/react-dom/components/input#controlling-an-input-with-a-state-variable
 [Full Modern React Tutorial]:https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d
