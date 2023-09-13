@@ -21,9 +21,11 @@ Dev
 
 ### 2023-09-13
 
+- Atlas account??
 - Activities
-  - Activity 3: Demo Frontend
-  - Atlas account??
+  - Activity 3: Demo Frontend & Refactoring
+  - Fetch API
+  - React environment variables
   - [Activity 4](./activity4.md)
 
 <details>
