@@ -26,11 +26,3 @@
   - [Sprint 2]: 2023-09-17 at 23:59
 - [Pair Programming](./pair.md): after 2023-09-17
 
-----
-
-
-### Back End (2023-09-12)
-
-- Perform CRUD Operations with Mongoose and MongoDB Atlas
-
-

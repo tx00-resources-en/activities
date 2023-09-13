@@ -15,9 +15,21 @@ Dev
 ### 2023-09-12
 
 - Activities
-  - Activity 1: Demo
+  - Activity 1: Demo Backend
   - [Atlas account]
   - [Activity 2](./activity2.md)
+
+### 2023-09-13
+
+- Activities
+  - Activity 3: Demo Frontend
+  - Atlas account??
+  - [Activity 4](./activity4.md)
+
+<details>
+  <summary>
+   <h2>Tips</h2>
+  </summary>
 
 ```sh
 npx degit tx00-web/activities/demo#week4 demo
@@ -36,6 +48,8 @@ npm install
 cd path_to_frontend
 npm install
 ```
+
+</details>
 
 ----
 ### CSS Review
