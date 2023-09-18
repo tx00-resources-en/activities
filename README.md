@@ -1,7 +1,9 @@
 # Activities
 
-> [Use of AI in the course](AI.md)
+### Notes
 
+- [Use of AI in the course](AI.md)
+- [Questions-Bank](https://github.com/tx00-web/Questions-Bank)
 
 ### Sessions
 
