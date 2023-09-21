@@ -1,8 +1,8 @@
 # Scaling Up with Reducer and Context
 
-You will combine reducers and context together to manage state of a complex screen.
+In this lab you will combine reducers and context together to manage state of a complex screen.
 
-## You will learn
+## What you will learn
 
 - How to combine a reducer with context
 - How to avoid passing state and dispatch through props
