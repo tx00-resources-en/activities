@@ -12,7 +12,7 @@ You will combine reducers and context together to manage state of a complex scre
 
 Open your terminal and run:
 ```sh
-npx degit <path_useContex-lab> useContex-lab
+npx degit tx00-web/activities/Frontend/useContex-lab#week5 useContex-lab
 cd useContex-lab
 npm install
 ```
