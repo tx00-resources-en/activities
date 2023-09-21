@@ -25,6 +25,7 @@ Next, navigate to the "backend" folder and perform the following steps:
 2. Run the following commands:
 ```shell
 npm install
+npm i nodemon -D
 npm run dev
 ```
 This will start the server, which should be listening on port 4000.
