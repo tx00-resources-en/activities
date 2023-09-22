@@ -54,8 +54,13 @@ Follow these steps:
 > Reference the [tutorial] for additional guidance on this refactoring process.
 
 
+## Ref
+
+- https://github.com/iamshaunjp/MERN-Auth-Tutorial
+- https://github.com/iamshaunjp/Complete-React-Tutorial/blob/lesson-32/dojo-blog/src/Create.js
+
+
 <!-- Links -->
 [tutorial]:https://react.dev/learn/scaling-up-with-reducer-and-context#step-1-create-the-context
 
-<!-- - https://github.com/iamshaunjp/MERN-Auth-Tutorial
-- https://github.com/iamshaunjp/Complete-React-Tutorial/blob/lesson-32/dojo-blog/src/Create.js -->
+
