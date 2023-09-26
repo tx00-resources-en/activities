@@ -51,7 +51,7 @@ Create a file `app.js`, then install bcrypt:
 
 ```sh
 $ mkdir bcrypt_demo
-$ cd mkdir
+$ cd bcrypt_demo
 $ npm init -y
 $ npm install bcrypt 
 ```
