@@ -66,8 +66,8 @@ Click the "Send" button to delete the specified goal. You should receive a respo
 1. Create a new request and choose the appropriate HTTP method (PUT) for updating a goal.
 
 2. Set the URL to the endpoint where you want to update a goal. For example:
-   - URL: `http://your-api-domain.com/api/goals/goal-id`
-   - Replace `your-api-domain.com` with your API's domain or IP address.
+   - URL: `http://localhost:5000/api/goals/goal-id`
+   - Replace `localhost:5000` with your API's domain or IP address.
    - Replace `goal-id` with the actual ID of the goal you want to update.
 
 3. Add the necessary headers:
@@ -93,7 +93,7 @@ Click the "Send" button to delete the specified goal. You should receive a respo
 1. Create a new request and choose the appropriate HTTP method (GET) for listing goals.
 
 2. Set the URL to the endpoint where you want to list goals. For example:
-   - URL: `http://your-api-domain.com/api/goals`
+   - URL: `http://localhost:5000/api/goals`
 
 3. Add the necessary headers:
    - Key: Authorization
