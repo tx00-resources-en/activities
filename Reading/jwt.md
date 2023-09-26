@@ -23,7 +23,7 @@ Before delving into JWTs, let's clarify the distinctions between encoding, encry
 
 ## How Hash Functions Work
 
-Recall from Module Two that a hash function is a function taking an input and yielding an output. Two crucial aspects to remember are:
+A hash function is a function taking an input and yielding an output. Two crucial aspects to remember are:
 
 - The output CANNOT be reversed to derive the input, yet...
 - Utilizing the same input in the hash function will ALWAYS yield the same output.
