@@ -2,13 +2,13 @@
 
 **Part 1: Initial Setup**
 
-1. Download the code from the "pair-programming-2023-10-03" folder using the "npx degit" command.
-2. Rename the "dotenv example" file to ".env" and configure it with your own database settings.
-3. Start the server. Determine whether you need to navigate inside the "backend" directory for this step.
+1. Download the code from the "pair-programming-2023-10-03" folder using the `degit` command: `npx degit tx00-web/activities/Project/pair-programming-2023-10-03#week7 pair-programming`
+2. Rename the "`dotenvexample`" file to "`.env`" and configure it with your own database settings.
+3. Start the server. Determine whether you need to navigate inside the "`backend`" directory for this step.
 4. Once the server is running, use Postman to sign up, ensuring you verify the server's port and endpoint for the signup process.
-5. After creating an account, go to the "frontend-starter" folder, run "npm install," and then start the client with "npm start."
+5. After creating an account, go to the "`frontend-starter`" folder, run "`npm instal`l," and then start the client with "`npm start`."
 6. Attempt to log in since you've already registered an account. After logging in, test the ability to add and delete goals.
-7. Manually log out by clearing the localStorage.
+7. Manually log out by **clearing the localStorage**.
 
 **Part 2: Implement Logout and Signup**
 
@@ -17,32 +17,32 @@
 
 **Part 3: Code Refactoring**
 
-Collaborate on refactoring the Login and Signup components to incorporate the useField custom hooks introduced in a the morning activities.
+Collaborate on refactoring the `Login` and `Signup` components to incorporate the `useField` custom hooks introduced in a the morning activities.
 
 **Part 4: Alternative Server Setup**
 
 1. Stop both the server and the client.
-2. Run "npm run server2" in the main folder. This will start a new server in "backend-brad"
-3. Create a new account using Postman or use the previous one.
+2. Run "`npm run server`2" in the main folder. This will start a new server in "`backend-brad`"
+3. Create a new account using Postman **or use the previous one**.
 4. Start the client and test the registration, login, and logout processes. 
 5. Check the ability to create and delete items. 
 
-> Observe whether the page refreshes after deleting an item.
+> Observe whether the **page refreshes after deleting an item.**
 
 **Part 5: Password Verification**
 
-- Enhance the Signup form collaboratively by adding a "password2" field, ensuring that users enter the same password in both "password" and "password2" fields for password verification.
+- Enhance the Signup form collaboratively by adding a "`password2`" field, ensuring that users enter the same password in both "`password`" and "`password2`" fields for password verification.
 - Do you have to make any modifications to the backend?
 
 **Part 6: Change to Local Session**
 
 - Explore and discuss the application's storage mechanism collaboratively. 
-- Evaluate the potential security improvements by changing from local storage to local session.
+- Evaluate the potential security improvements by changing from **local storage** to **local session**.
 
 **Part 7: Script and Proxy**
 
-- Collaboratively investigate the purpose of the "all" script that utilizes the "concurrently" library.
-- Discuss the "setupProxy.js" file in the "frontend-starter" folder. This [link](https://create-react-app.dev/docs/proxying-api-requests-in-development/#configuring-the-proxy-manually) might be helpful
+- Collaboratively investigate the purpose of the "`all`" script that utilizes the "concurrently" library.
+- Discuss the "`setupProxy.js`" file in the "frontend-starter" folder. This [link](https://create-react-app.dev/docs/proxying-api-requests-in-development/#configuring-the-proxy-manually) might be helpful
 
 > Throughout these parts, ensure that you work closely together, document your observations, findings, and any code changes made during the pair programming session.
 
