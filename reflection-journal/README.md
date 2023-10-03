@@ -4,6 +4,15 @@
 - Week 
 
 ----
+## Self Assessment
+
+In your reflection journal, ensure that you provide a self-assessment for the following weeks:
+
+- Evaluate your progress and performance during Week 5.
+- Reflect on your achievements and challenges in Week 6.
+- Assess your learning and growth throughout Week 7.
+- 
+----
 
 ## Peer assessment
 
