@@ -1,0 +1,5 @@
+PORT=4000
+MONGO_URI=uri_here
+TEST_MONGO_URI=uri_here
+SECRET=mysecretepassword
+
