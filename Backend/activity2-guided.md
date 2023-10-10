@@ -1,4 +1,4 @@
-<!-- # Activity 2: Guided
+# Activity 2: Guided
 
 **Step 1: Creating Configuration File**
 
@@ -299,4 +299,4 @@ In this step, you will use Postman to test the API with GET requests that includ
 
 **(Optional) Step 7: Refactoring Code**
 
-In this step, you will organize and refactor your middleware code in creating a dedicated "`middlewares`" folder.  -->
+In this step, you will organize and refactor your middleware code in creating a dedicated "`middlewares`" folder. 

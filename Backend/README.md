@@ -42,7 +42,9 @@
 ### Activity 2
 
 - [Guided](./activity2-guided.md)
-- [Independent](./activity2.md)
+<!-- 
+- [Independent](./activity2.md) 
+-->
 
 
 <!-- 
