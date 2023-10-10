@@ -21,11 +21,9 @@ You can use this template
 - Members: MemberX, MemberY
 - Open Feedback:
 
-
 ## Project 2
 - Members: MemberZ, MemberV
 - Open Feedback:
-
 
 ## Project N
 - Members: 
