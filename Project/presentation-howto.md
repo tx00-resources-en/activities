@@ -1,6 +1,6 @@
 # About the Presentation
 
-When presenting a group project that involves building a MERN (MongoDB, Express.js, React, Node.js) stack application, it's essential to cover various aspects to provide a comprehensive overview to your audience. Here are some key considerations when presenting such a project:
+Here are some key considerations when presenting such a project:
 
 1. **Project Overview and Objectives**:
    - Begin by providing a brief introduction to the project's purpose, goals, and objectives. Explain the problem you aimed to solve or the functionality you wanted to create.
