@@ -53,19 +53,20 @@ module.exports = specs;
 
 3. At the top of your app.js file, add the following code:
    
-   ```javascript
-   // Import your Swagger configuration
-   const swaggerUi = require("swagger-ui-express");
-   const swaggerSpec = require("./swaggerConfig.js");
-   ```
+```javascript
+// Import your Swagger configuration
+const swaggerUi = require("swagger-ui-express");
+const swaggerSpec = require("./swaggerConfig.js");
+```
 
 4. In app.js, modify your routes as follows:
 
-   ```javascript
-   // routes
-   app.use("/api/workouts", workoutRoutes);
-   app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec));
-   ```
+```javascript
+// routes
+app.use("/api/workouts", workoutRoutes);
+app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(swaggerSpec));
+```
+
 5. replace the content of `routes/workouts.js` with the following:
    
 ```js

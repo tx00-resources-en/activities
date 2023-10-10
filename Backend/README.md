@@ -35,7 +35,7 @@
 ---
 ### Users roles and permissions
 
-- [RBAC and ABAC permissions models](https://www.permit.io/blog/implement-rbac-authorization-in-express)
+- [RBAC and ABAC permissions models](https://workos.com/blog/rbac-vs-abac)
 - [Libraries: mongoose-permissions](https://www.npmjs.com/package/mongoose-permissions)
 - [Simple implementation: How To Manage User Roles In Node.js](https://www.youtube.com/watch?v=jI4K7L-LI58)
 
