@@ -13,13 +13,17 @@ Here are some instructions to guide you:
 // Swagger
 const swaggerUI = require("swagger-ui-express");
 const swaggerSpec = require("./swagger.json");
+```
 
-// After defining your routes, add the following line:
+After defining your routes, add the following line:
+```javascript
 app.use("/api-docs", swaggerUI.serve, swaggerUI.setup(swaggerSpec));
 ```
 
 5. Test the endpoints
 
+
+-------
 ### Code for the workout server
 
 ```js
@@ -71,6 +75,8 @@ mongoose
 module.exports = app;
 ```
 
+
+-------
 ### Swagger.json
 
 ```json

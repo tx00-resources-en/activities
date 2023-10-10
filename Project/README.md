@@ -1,5 +1,17 @@
 # Project
 
+
+## Thursday 2023-10-12
+
+- Project presentations
+- [Peer assessment](./peer.md)
+- Future roadmap
+
+---------
+
+## Tuesday 2023-10-10
+
+
 ### Feedback 5%
 
 - `AVOP2 Questionnaire` administered at the Metropolia level for all second-year students. It is *not exclusive to any specific course*. 
