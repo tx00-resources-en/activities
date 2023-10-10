@@ -13,6 +13,7 @@
 - Presentation: Thursday 2023-10-12 from 9:00 -16:00
   - [Guideline](./presentation-howto.md)
   - [Sample Outline](./outline.md)
+  - You can consider using [revealjs.](https://revealjs.com/)
 - [Sprint 4](https://github.com/tx00-web/Project-description/blob/main/sprint4.md), DL: 2023-10-15 at 23:59
 
 
