@@ -26,6 +26,9 @@
 - [Roadmap FS](https://roadmap.sh/full-stack)
 - [Roadmap BE](https://roadmap.sh/backend)
 - [Roadmap FE](https://roadmap.sh/frontend)
+- [Review]:
+  - [React Projects](https://www.youtube.com/playlist?list=PLnHJACx3NwAe5XQDk9xLgym7FF8Q4FYW7)
+  - [Node.js Projects](https://www.youtube.com/watch?v=rltfdjcXjmk) 
 
 ### Misc.
 
@@ -34,7 +37,7 @@
 - [What next?](https://app.diagrams.net/)
   <!-- 
   - Redux
-  - GraphQL
+  - [GraphQL](https://www.youtube.com/watch?v=BcLNfwF04Kw)
   -  [Learn Docker - DevOps with Node.js & Express](https://www.youtube.com/watch?v=9zUHg7xjIqQ) 
   - [Python API Development+ Sequelize](https://www.youtube.com/watch?v=ToXOb-lpipM&list=PL8VzFQ8k4U1IiGUWdBI7s9Y7dm-4tgCXJ) 
   - Sequelize
@@ -44,6 +47,7 @@
     - [Testing Express REST API With Supertest](https://www.youtube.com/watch?v=r5L1XRZaCR0)
     - [Build a REST API](https://www.youtube.com/playlist?list=PL0iFifR5umclpRsRgWQtOtcgUffblcZgx) 
   - MERN vs MEAN vs 
+  - [Full Stack MERN](https://www.youtube.com/playlist?list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu)
   -->
 
 

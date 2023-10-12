@@ -17,12 +17,8 @@ To ensure a fair and effective peer assessment process, please consider the foll
 
 You can use this template
 
-## Project SuomiSprint:
-
-- Members: Group 7- Anna Linden, Arman Yerkeshev, Mamita Gurung, Trang Vu
-- Misc. 
-   - SuomiSprint on Render: https://suomisprint.onrender.com/
-   - .
+## Project 1
+- Members: MemberX, MemberY
 - Open Feedback:
 
 ## Project 2
