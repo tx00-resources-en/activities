@@ -1,18 +1,37 @@
 # Project
 
-### Announcement
+
+## Thursday 2023-10-12
+
+### About the exam
 
 - Please remember to bring a pen to the **examination** this Friday.
+- Sample?
+
+### singularity?
+
+- [Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)
+- [Sci-fi: Singularity Series](https://www.amazon.com/dp/B074CGJTKM?binding=kindle_edition&ref=dbs_dp_rwt_sb_pc_tukn)
+- [Stress management](https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/)
+
+### Presentations
+
 - Don't forget to include the **contributions** of each team member when you submit the project.
 - I will try to **Record each presentation**
-
-### Thursday 2023-10-12
-
-
-- Project presentations
 - [Peer assessment](./peer.md)
+- Project presentations
+
+### Roadmap
+
+- [Roadmap FS](https://roadmap.sh/full-stack)
+- [Roadmap BE](https://roadmap.sh/backend)
+- [Roadmap FE](https://roadmap.sh/frontend)
+
+### Misc.
+
+- `import` and CommonJS `require` 
 - Projects from previous offerings
-- Future roadmap
+- [What next?](https://app.diagrams.net/)
   <!-- 
   - Redux
   - GraphQL
@@ -24,12 +43,12 @@
     - [TypeScript With Express & Node](https://www.youtube.com/watch?v=qy8PxD3alWw)
     - [Testing Express REST API With Supertest](https://www.youtube.com/watch?v=r5L1XRZaCR0)
     - [Build a REST API](https://www.youtube.com/playlist?list=PL0iFifR5umclpRsRgWQtOtcgUffblcZgx) 
-  - f
+  - MERN vs MEAN vs 
   -->
 
 
-
-### Tuesday 2023-10-10
+-------
+## Tuesday 2023-10-10
 
 
 #### Feedback 5%
